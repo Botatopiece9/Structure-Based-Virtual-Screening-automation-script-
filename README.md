@@ -2,7 +2,7 @@
 
 A general-purpose bash pipeline for Structure-Based Virtual Screening using AutoDock Vina. Automates receptor and ligand preparation, docking across a compound library, score extraction, and ranked results reporting — in a single command.
 
-![Pipeline Overview](assets/pipeline_overview.png)
+![Pipeline Overview](pipeline_overview.png)
 
 ---
 
