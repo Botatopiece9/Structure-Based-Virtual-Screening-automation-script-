@@ -20,7 +20,7 @@ EXHAUSTIVENESS=8
 NUM_MODES=9
 ENERGY_RANGE=3
 
-#Usage functions: the message that will show asking for the input and guide the user for correct arguments
+#Usage functions: the message that will show asking for the input and guide the user to correct arguments
 usage() {
     echo "Usage: $0 [OPTIONS]"
     echo ""
