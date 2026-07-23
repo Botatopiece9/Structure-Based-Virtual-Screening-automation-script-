@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
+# vs_screen.sh
 #vs_screen.sh - General SBDD Virtual Screening Pipline
 
 #Defaults: declaring the defaults of the program
